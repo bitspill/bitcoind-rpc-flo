@@ -9,7 +9,7 @@ A client library to connect to Bitcoin Core RPC in JavaScript.
 
 ## Get Started
 
-bitcoind-rpc.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
+bitcoind-rpc-flo.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
 
 ```bash
 npm install bitcoind-rpc

@@ -1,6 +1,6 @@
 {
-  "name": "bitcoind-rpc",
-  "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
+  "name": "bitcoind-rpc-flo",
+  "description": "Bitcoin Client Library to connect to Flo Core via RPC",
   "version": "0.7.0",
   "author": {
     "name": "Stephen Pair",
@@ -25,12 +25,14 @@
     }
   ],
   "keywords": [
+    "flo",
+    "florincoin",
     "bitcoin",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcoind-rpc"
+    "url": "https://github.com/bitspill/bitcoind-rpc-flo"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -47,7 +49,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcoind-rpc/issues"
+    "url": "https://github.com/bitspill/bitcoind-rpc-flo/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcoind-rpc"
+  "homepage": "https://github.com/bitspill/bitcoind-rpc-flo"
 }
